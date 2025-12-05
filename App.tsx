@@ -105,7 +105,7 @@ const App: React.FC = () => {
         <div className="min-h-screen p-6 font-sans selection:bg-accent selection:text-white">
             <header className="mb-8 border-b border-industrial-700 pb-4">
                 <h1 className="text-3xl font-bold text-white tracking-tight">
-                    <span className="text-accent">MXR</span> Protocol Tool
+                    <span className="text-green-500">MXR</span> Protocol Tool
                 </h1>
                 <p className="text-industrial-500 mt-2 text-sm">
                     MXR100080B-DCs Charging Module CAN Interface
