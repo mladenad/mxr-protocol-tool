@@ -1,0 +1,4 @@
+{
+  "name": "MXR Charging Module Protocol Tool",
+  "description": "A diagnostic and control utility for the MXR100080B-DCs Charging Module CAN Protocol. Allows generation of command frames and decoding of response frames."
+}
